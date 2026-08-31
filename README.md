@@ -11,8 +11,8 @@ GitHub Pages에 바로 올릴 수 있는 정적 웹사이트입니다.
 
 ## 과정별 공유 주소
 
-- 가산 A반: `https://계정명.github.io/gasan-a/`
-- 신설동 B반: `https://계정명.github.io/sinseoldong-b/`
+- 가산 A반: `https://ax-helloworldlabs.github.io/gasan-a/`
+- 신설동 B반: `https://ax-helloworldlabs.github.io/sinseoldong-b/`
 
 각 과정 페이지에는 다른 과정이나 공통 화면으로 이동하는 링크가 없습니다. 단, GitHub Pages는 공개 웹사이트이므로 주소를 아는 사람의 직접 접근 자체를 차단하는 기능은 아닙니다.
 
