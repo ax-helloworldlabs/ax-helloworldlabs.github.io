@@ -9,10 +9,17 @@ GitHub Pages에 바로 올릴 수 있는 정적 웹사이트입니다.
 - `assets/app.js`: 커리큘럼 펼침 기능
 - `resources/`: 추후 추가할 PDF 등 안내 파일
 
+현재 공용 자료로 다음 파일이 연결되어 있습니다.
+
+- `resources/claude-cowork-curriculum.pdf`: 상세 커리큘럼
+- `resources/claude-cowork-pre-course-guide.pdf`: 교육 사전 안내
+
+두 파일은 가산 A반과 신설동 B반 페이지 모두에서 열립니다. 내용을 갱신할 때 같은 영문 파일명으로 덮어쓴 후, 각 페이지의 CSS·스크립트 버전 번호를 올리면 브라우저 캐시를 피할 수 있습니다.
+
 ## 과정별 공유 주소
 
-- 가산 A반: `https://ax-helloworldlabs.github.io/gasan-a/`
-- 신설동 B반: `https://ax-helloworldlabs.github.io/sinseoldong-b/`
+- 가산 A반: `https://계정명.github.io/gasan-a/`
+- 신설동 B반: `https://계정명.github.io/sinseoldong-b/`
 
 각 과정 페이지에는 다른 과정이나 공통 화면으로 이동하는 링크가 없습니다. 단, GitHub Pages는 공개 웹사이트이므로 주소를 아는 사람의 직접 접근 자체를 차단하는 기능은 아닙니다.
 

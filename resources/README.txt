@@ -1,4 +1,8 @@
-추가 안내 자료를 이 폴더에 넣어주세요.
+공용 교육 자료를 이 폴더에 넣어주세요.
+
+현재 연결된 파일:
+  claude-cowork-curriculum.pdf
+  claude-cowork-pre-course-guide.pdf
 
 예시:
   resources/가산A반-교육안내.pdf

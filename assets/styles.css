@@ -121,7 +121,7 @@ footer { display: flex; justify-content: space-between; padding: 30px 5vw; color
 .info-grid p, .info-grid ul { margin: 0; padding-left: 0; color: var(--muted); list-style-position: inside; }
 .id-required { margin-bottom: 10px; padding: 12px 14px; color: var(--ink); background: #fff0eb; border: 1px solid #ffc2b1; border-radius: 12px; list-style: none; }
 .id-required mark { display: inline-flex; margin-left: 8px; padding: 2px 7px; color: white; background: #e14e35; border-radius: 999px; font-size: .72rem; font-weight: 900; }
-.material-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 16px; }
+.material-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
 .material-card { display: grid; min-height: 180px; padding: 30px; background: white; border: 1px solid var(--line); border-radius: 22px; transition: transform .2s, box-shadow .2s; }
 .material-card:not(.is-disabled):hover { transform: translateY(-3px); box-shadow: var(--shadow); }
 .material-card span { color: var(--blue); font-size: .76rem; font-weight: 900; letter-spacing: .1em; }
