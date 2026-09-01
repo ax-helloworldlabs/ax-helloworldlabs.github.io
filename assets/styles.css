@@ -74,6 +74,7 @@ h1 em { color: var(--blue); font-style: normal; }
 .quick-facts span { color: #d5ddea; font-size: .92rem; }
 footer { display: flex; justify-content: space-between; padding: 30px 5vw; color: #8a95a8; background: #101827; font-size: .85rem; }
 .theme-coral { --blue: #e6674f; --blue-deep: #9b321f; --aqua: #ffd284; }
+.theme-teal { --blue: #0f8b78; --blue-deep: #075e52; --aqua: #93eadb; }
 .section { max-width: 1240px; margin: 0 auto; padding: 105px 0; }
 .section-heading { margin-bottom: 44px; }
 .section-heading > p { margin: 0 0 10px; color: var(--blue); font-size: .8rem; font-weight: 900; letter-spacing: .12em; }
@@ -121,6 +122,8 @@ footer { display: flex; justify-content: space-between; padding: 30px 5vw; color
 .info-grid p, .info-grid ul { margin: 0; padding-left: 0; color: var(--muted); list-style-position: inside; }
 .id-required { margin-bottom: 10px; padding: 12px 14px; color: var(--ink); background: #fff0eb; border: 1px solid #ffc2b1; border-radius: 12px; list-style: none; }
 .id-required mark { display: inline-flex; margin-left: 8px; padding: 2px 7px; color: white; background: #e14e35; border-radius: 999px; font-size: .72rem; font-weight: 900; }
+.pending-note { margin-top: 10px; padding-top: 10px; border-top: 1px dashed #cdd7e5; font-size: .9rem; }
+.arrival-note { display: block; margin-top: 14px; padding: 9px 11px; color: var(--blue-deep); background: white; border-radius: 10px; font-size: .86rem; }
 .material-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
 .material-card { display: grid; min-height: 180px; padding: 30px; background: white; border: 1px solid var(--line); border-radius: 22px; transition: transform .2s, box-shadow .2s; }
 .material-card:not(.is-disabled):hover { transform: translateY(-3px); box-shadow: var(--shadow); }
@@ -128,6 +131,7 @@ footer { display: flex; justify-content: space-between; padding: 30px 5vw; color
 .material-card strong { align-self: end; font-size: 1.35rem; }
 .material-card small { color: var(--muted); }
 .material-card.is-disabled { cursor: default; opacity: .62; }
+.single-material { grid-template-columns: minmax(260px, 520px); }
 .switch-course { display: flex; justify-content: space-between; align-items: center; max-width: 1240px; margin: 0 auto 100px; padding: 34px 40px; color: white; background: var(--blue); border-radius: 22px; }
 .switch-course p { margin: 0; }
 .switch-course a { font-weight: 850; }
