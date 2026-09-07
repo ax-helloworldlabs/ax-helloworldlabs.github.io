@@ -4,7 +4,7 @@ GitHub Pages에 바로 올릴 수 있는 정적 웹사이트입니다.
 
 - `index.html`: 과정별 링크로 접속하도록 안내하는 공통 화면(과정 목록 없음)
 - `gasan-a/index.html`: 가산 A반 페이지
-- `gasan-d/index.html`: 가산 Claude 4회차 페이지
+- `class-k7m4q9x2/index.html`: 가산 Claude 4회차 페이지
 - `sinseoldong-b/index.html`: 신설동 B반 페이지
 - `sungjin-hitech/index.html`: 성진하이텍 전용 페이지
 - `assets/styles.css`: 공통 디자인
@@ -42,7 +42,7 @@ GitHub Pages에 바로 올릴 수 있는 정적 웹사이트입니다.
 ## 과정별 공유 주소
 
 - 가산 A반: `https://계정명.github.io/gasan-a/`
-- 가산 Claude 4회차: `https://계정명.github.io/gasan-d/`
+- 가산 Claude 4회차: `https://계정명.github.io/class-k7m4q9x2/`
 - 신설동 B반: `https://계정명.github.io/sinseoldong-b/`
 - 성진하이텍: `https://계정명.github.io/sungjin-hitech/`
 
