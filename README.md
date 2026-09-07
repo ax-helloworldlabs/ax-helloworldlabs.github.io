@@ -4,6 +4,7 @@ GitHub Pages에 바로 올릴 수 있는 정적 웹사이트입니다.
 
 - `index.html`: 과정별 링크로 접속하도록 안내하는 공통 화면(과정 목록 없음)
 - `gasan-a/index.html`: 가산 A반 페이지
+- `gasan-d/index.html`: 가산 Claude 4회차 페이지
 - `sinseoldong-b/index.html`: 신설동 B반 페이지
 - `sungjin-hitech/index.html`: 성진하이텍 전용 페이지
 - `assets/styles.css`: 공통 디자인
@@ -16,7 +17,7 @@ GitHub Pages에 바로 올릴 수 있는 정적 웹사이트입니다.
 - `resources/claude-cowork-curriculum.pdf`: 상세 커리큘럼
 - `resources/claude-cowork-pre-course-guide.pdf`: 교육 사전 안내
 
-두 파일은 가산 A반과 신설동 B반 페이지 모두에서 열립니다. 내용을 갱신할 때 같은 영문 파일명으로 덮어쓴 후, 각 페이지의 CSS·스크립트 버전 번호를 올리면 브라우저 캐시를 피할 수 있습니다.
+두 파일은 가산 A반, 가산 Claude 4회차와 신설동 B반 페이지에서 열립니다. 내용을 갱신할 때 같은 영문 파일명으로 덮어쓴 후, 각 페이지의 CSS·스크립트 버전 번호를 올리면 브라우저 캐시를 피할 수 있습니다.
 
 ## 2026-09-01 화면 개편
 
@@ -41,6 +42,7 @@ GitHub Pages에 바로 올릴 수 있는 정적 웹사이트입니다.
 ## 과정별 공유 주소
 
 - 가산 A반: `https://계정명.github.io/gasan-a/`
+- 가산 Claude 4회차: `https://계정명.github.io/gasan-d/`
 - 신설동 B반: `https://계정명.github.io/sinseoldong-b/`
 - 성진하이텍: `https://계정명.github.io/sungjin-hitech/`
 
